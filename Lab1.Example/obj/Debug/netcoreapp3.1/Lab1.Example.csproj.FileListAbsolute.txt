@@ -1,0 +1,9 @@
+C:\Users\rustem\Desktop\lab1\Lab1.Example\bin\Debug\netcoreapp3.1\Lab1.Example.deps.json
+C:\Users\rustem\Desktop\lab1\Lab1.Example\bin\Debug\netcoreapp3.1\Lab1.Example.dll
+C:\Users\rustem\Desktop\lab1\Lab1.Example\bin\Debug\netcoreapp3.1\Lab1.Example.pdb
+C:\Users\rustem\Desktop\lab1\Lab1.Example\obj\Debug\netcoreapp3.1\Lab1.Example.csprojAssemblyReference.cache
+C:\Users\rustem\Desktop\lab1\Lab1.Example\obj\Debug\netcoreapp3.1\Lab1.Example.AssemblyInfoInputs.cache
+C:\Users\rustem\Desktop\lab1\Lab1.Example\obj\Debug\netcoreapp3.1\Lab1.Example.AssemblyInfo.cs
+C:\Users\rustem\Desktop\lab1\Lab1.Example\obj\Debug\netcoreapp3.1\Lab1.Example.csproj.CoreCompileInputs.cache
+C:\Users\rustem\Desktop\lab1\Lab1.Example\obj\Debug\netcoreapp3.1\Lab1.Example.dll
+C:\Users\rustem\Desktop\lab1\Lab1.Example\obj\Debug\netcoreapp3.1\Lab1.Example.pdb
